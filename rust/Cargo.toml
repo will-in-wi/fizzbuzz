@@ -1,0 +1,7 @@
+[package]
+name = "rust_fizzbuzz"
+version = "0.1.0"
+authors = ["William Johnston <william@johnstonhaus.us>"]
+edition = "2018"
+
+[dependencies]
